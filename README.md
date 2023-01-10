@@ -37,10 +37,10 @@ Execute the program
             </tr>
             <tr>
                 <th>Reference ID:</th>
-                <th>22008174</th>
+                <th>22008329</th>
                 <th></th>
                 <th>Name:</th>
-                <th>Chandru</th>
+                <th>Shakthivel</th>
             </tr>
             <tr>
                 <th>Day</th>
@@ -53,7 +53,7 @@ Execute the program
                 <td>Monday</td>
                 <td>English</td>
                 <td>Web</td>
-                <td>Physics</td>
+                <td>Maths</td>
                 <td>Chemistry</td>
             </tr>
             <tr>
@@ -65,14 +65,14 @@ Execute the program
             </tr>
             <tr>
                 <td>Wednesday</td>
-                <td>DPSD</td>
-                <td>Mime</td>
+                <td>German</td>
+                <td>Coder's club</td>
                 <td>Java</td>
                 <td>Javascript</td>
             </tr>
             <tr>
                 <td>Thursday</td>
-                <td>Design</td>
+                <td>Soft skills</td>
                 <td>C</td>
                 <td>C++</td>
                 <td>Python</td>
@@ -88,6 +88,8 @@ Execute the program
     
     </body>
 </html>
+
+
 
 ~~~
 
